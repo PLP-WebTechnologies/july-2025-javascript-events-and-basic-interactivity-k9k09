@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+#hoverBox {
+  width: 150px;
+  height: 50px;
+  background-color: lightblue;
+  margin-top: 10px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.faq-answer {
+  display: none;
+  margin-left: 20px;
+  color: #555;
+}
+
+.dark-mode {
+  background-color: #333;
+  color: white;
+}
+
+.error {
+  color: red;
+  font-size: 0.9em;
+}
